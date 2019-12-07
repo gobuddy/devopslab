@@ -1,6 +1,6 @@
 export GITACCOUNT=gobuddy
 
-export MYCLUSTER=
+export MYCLUSTER=tektonknativebeijing10
 export KUBECONFIG=
 
 export NAMESPACE=nemospace
