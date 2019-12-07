@@ -1,8 +1,8 @@
-export GITACCOUNT=
+export GITACCOUNT=gobuddy
 
 export MYCLUSTER=
 export KUBECONFIG=
 
 export NAMESPACE=
-export EMAIL=
+export EMAIL=shawn.lisheng@gmail.com
 export INGRESS=
